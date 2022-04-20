@@ -1,0 +1,26 @@
+{
+    "schema_version":
+    {
+        "major": "1",
+        "minor": "2",
+        "patch": "0"
+    },
+    "generation":
+    {
+        "this_file": "\/users\/course\/2022S\/HLS17000000\/g110064521\/HLS_C\/Vitis_Libraries\/codec\/L2\/demos\/jpegDec\/xrt.run_summary",
+        "source": "vp",
+        "PID": "38384",
+        "timestamp": "1649353381595"
+    },
+    "files":
+    [
+        {
+            "name": "opencl_trace.csv",
+            "type": "VP_TRACE"
+        },
+        {
+            "name": "summary.csv",
+            "type": "PROFILE_SUMMARY"
+        }
+    ]
+}
