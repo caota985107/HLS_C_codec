@@ -1,19 +1,3 @@
-#
-# Makefile for building lcms sample programs
-# Originally Written by Bob Friesenhahn, June 2003
-# Additions and bugs by Marti Maria 
-
-# Don't require all the GNU mandated files
-AUTOMAKE_OPTIONS = 1.7 foreign no-dependencies
-
-AM_CPPFLAGS =  -I$(top_builddir)/include -I$(top_srcdir)/include \
-              -I$(top_srcdir)/utils/common -I$(top_builddir)/utils/common
-
-bin_PROGRAMS = linkicc 
-
-linkicc_LDADD = $(top_builddir)/src/liblcms2.la 
-linkicc_LDFLAGS = @LDFLAGS@
-linkicc_SOURCES = linkicc.c ../common/xgetopt.c ../common/vprf.c ../common/utils.h
-linkicc_MANS = linkicc.1
-
-EXTRA_DIST = $(man_MANS)
+version https://git-lfs.github.com/spec/v1
+oid sha256:306e6b1c6d1e1b2c3f84003d7804882db49e873f3f83a9cce8feb774393fb9a6
+size 605

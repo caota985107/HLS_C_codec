@@ -1,19 +1,3 @@
-#
-# Makefile for building lcms sample programs
-# Originally Written by Bob Friesenhahn, June 2003
-# Additions and bugs by Marti Maria 
-
-# Don't require all the GNU mandated files
-AUTOMAKE_OPTIONS = 1.7 foreign no-dependencies
-
-AM_CPPFLAGS =  -I$(top_builddir)/include -I$(top_srcdir)/include \
-               -I$(top_srcdir)/utils/common -I$(top_builddir)/utils/common
-
-bin_PROGRAMS = wtpt 
-
-wtpt_LDADD = $(top_builddir)/src/liblcms2.la 
-wtpt_LDFLAGS = @LDFLAGS@
-wtpt_SOURCES = wtpt.c ../common/xgetopt.c ../common/vprf.c ../common/utils.h
-wtpt_MANS = wtpt.1
-
-EXTRA_DIST = $(man_MANS) roundtrip.c mktiff8.c mkgrayer.c mkcmy.c itufax.c
+version https://git-lfs.github.com/spec/v1
+oid sha256:b501dbef639c1d9b80cc2adef3b169294a92a9aaf055ee4ca4a3e83058362543
+size 635

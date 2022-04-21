@@ -1,9 +1,3 @@
-xml
-rst
-.stamp
-*.sh
-*.csh
-*.pyc
-_themes
-_ext
-_templates
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3161f8fafdf252619a273898c03a53a8f9a5a55101c859ae16d3531aeb69a7
+size 56

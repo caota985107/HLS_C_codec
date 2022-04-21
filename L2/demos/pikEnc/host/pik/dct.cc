@@ -1,13 +1,3 @@
-// Copyright 2017 Google Inc. All Rights Reserved.
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
-
-#include "pik/dct.h"
-
-namespace pik {
-
-// Nothing here. This file remains, as it could be useful in the future.
-
-}  // namespace pik
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34f714a084d3a8d2590782ab1e8e65f410b1a7d45aaca03ba5ded8465e2376e
+size 338

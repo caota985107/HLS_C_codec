@@ -1,2 +1,3 @@
-#config_dataflow -override_user_fifo_depth 32 -task_level_fifo_depth 32 -scalar_fifo_depth 32 -start_fifo_depth 32
-config_compile -disable_auto_rewind
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd0d95e8dc7a27eb8d1ee7f7e012e9a1995036d32bd47a30c390bea0039c6999
+size 151

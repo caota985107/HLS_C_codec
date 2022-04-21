@@ -1,12 +1,3 @@
-LodePNG
--------
-
-PNG encoder and decoder in C and C++.
-
-Home page: http://lodev.org/lodepng/
-
-Only two files are needed to allow your program to read and write PNG files: lodepng.cpp and lodepng.h.
-
-For C, you can rename lodepng.cpp to lodepng.c and it'll work. C++ only adds extra API.
-
-The other files in the project are just examples, unit tests, etc...
+version https://git-lfs.github.com/spec/v1
+oid sha256:65135b0e91789503972299369a3e090bde6b0dfc716bedc9da36829e09813eb1
+size 357

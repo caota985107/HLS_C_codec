@@ -1,25 +1,3 @@
-.. 
-   Copyright 2020 Xilinx, Inc.
-  
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-  
-       http://www.apache.org/licenses/LICENSE-2.0
-  
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
-
-*****************************
-API Document
-*****************************
-
-.. toctree::
-   :maxdepth: 2
-
-   ../rst_L1/namespace_xf_codec.rst
-   :start-after: FunctionSection
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d9041de94ddf46f5be23200c3ba40e0bcb69429c23759b950dac51aafb8cb3e
+size 768

@@ -1,14 +1,3 @@
-#-----------------------------------------------------------
-# Vitis Analyzer v2021.2 (64-bit)
-# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
-# 
-# Start of session at: Fri Apr  8 01:43:53 2022
-# Process ID: 38536
-# Current directory: /users/course/2022S/HLS17000000/g110064521/HLS_C/Vitis_Libraries/codec/L2/demos/jpegDec
-# Command line: vitis_analyzer xrt.run_summary
-# Log file: /users/course/2022S/HLS17000000/g110064521/HLS_C/Vitis_Libraries/codec/L2/demos/jpegDec/vitis_analyzer.log
-# Journal file: /users/course/2022S/HLS17000000/g110064521/HLS_C/Vitis_Libraries/codec/L2/demos/jpegDec/vitis_analyzer.jou
-# Running On: ic21, OS: Linux, CPU Frequency: 2794.867 MHz, CPU Physical cores: 32, Host memory: 269950 MB
-#-----------------------------------------------------------
-start_gui
-create_project dummy
+version https://git-lfs.github.com/spec/v1
+oid sha256:877ecc63c7dc4cfbf1fdf0574fd8af324551f93034da289c3ba8f010130663df
+size 814

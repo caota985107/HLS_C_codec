@@ -1,16 +1,3 @@
-// Copyright 2017 Google Inc. All Rights Reserved.
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
-
-#include "pik/metadata.h"
-
-#include "pik/fields.h"
-
-namespace pik {
-
-Transcoded::Transcoded() { Bundle::Init(this); }
-Metadata::Metadata() { Bundle::Init(this); }
-
-}  // namespace pik
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcb260fa2653f2882c586b76f771dfe2e63e15f0d7be7db1118ae017e5c9664
+size 389

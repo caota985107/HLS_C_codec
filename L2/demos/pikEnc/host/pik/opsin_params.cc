@@ -1,27 +1,3 @@
-// Copyright 2019 Google LLC
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
-
-#include "pik/opsin_params.h"
-
-#include "pik/linalg.h"
-
-namespace pik {
-
-static const float* ComputeOpsinAbsorbanceInverseMatrix() {
-  float* inverse = new float[9];
-  for (int i = 0; i < 9; i++) {
-    inverse[i] = kOpsinAbsorbanceMatrix[i];
-  }
-  Inv3x3Matrix(inverse);
-  return inverse;
-}
-
-const float* GetOpsinAbsorbanceInverseMatrix() {
-  static const float* kOpsinInverse = ComputeOpsinAbsorbanceInverseMatrix();
-  return kOpsinInverse;
-}
-
-}  // namespace pik
+version https://git-lfs.github.com/spec/v1
+oid sha256:74e48f171354e756ff0a1e626b3ec0725feb7fd9eed406b13fc960f230315537
+size 648

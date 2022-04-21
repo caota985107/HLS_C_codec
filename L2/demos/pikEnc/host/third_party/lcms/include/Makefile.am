@@ -1,7 +1,3 @@
-#
-# Makefile for include directory
-# Based on a work by Bob Friesenhahn
-
-include_HEADERS = lcms2.h lcms2_plugin.h
-
-EXTRA_DIST = lcms2.h lcms2_plugin.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ec1a8d6067712dc5cd1f13aa78ba5c141e11b7819a3cdda79358751543878c7
+size 151

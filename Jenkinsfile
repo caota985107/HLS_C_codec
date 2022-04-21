@@ -1,4 +1,3 @@
-@Library('pipeline-library')_
-VitisLibPipeline (branch: 'master', libname: 'xf_codec', TARGETS: 'hls_csim:hls_csynth:hls_cosim:vitis_sw_emu:vitis_hw_emu:vitis_hw_build',
-                  upstream_dependencies: 'xf_utils_hw,master,../utils; xf_database,master,../database; xf_fintech,master,../quantitative_finance',
-                  devtest: 'RunDeploy.sh', TOOLVERSION: '2021.2_released')
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a42b646dbc50e1e0ee98846581f92cc85e81ef361ea229f76db7d34d741717
+size 392

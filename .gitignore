@@ -1,30 +1,3 @@
-*.log
-*.yuv
-*.jpg
-_x_*
-build_dir*
-emconfig.json
-xclbin.run_summary
-timeline_trace.csv
-profile_summary.csv
-reports
-xrt.ini
-*.swp
-*.swo
-*.wdb
-*.wcfg
-*.protoinst
-sample_*.ini
-jks.*
-make_gen_*.ini
-TestResults
-*.prj
-*_sw_emu
-*_hw_emu
-*_hw
-.Xil
-*.log
-bin_*
-obj_*
-hls
-*.bat
+version https://git-lfs.github.com/spec/v1
+oid sha256:42625435dc06097aadef5be1734afb61ead5a4104e67dd196f2a72f6aba8fb97
+size 267

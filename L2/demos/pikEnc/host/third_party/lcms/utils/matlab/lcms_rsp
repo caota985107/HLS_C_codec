@@ -1,27 +1,3 @@
--O
--I..\..\include
-icctrans.c
-..\..\src\cmscam02.c
-..\..\src\cmscgats.c
-..\..\src\cmscnvrt.c
-..\..\src\cmserr.c
-..\..\src\cmsgamma.c
-..\..\src\cmsgmt.c
-..\..\src\cmsintrp.c
-..\..\src\cmsio0.c
-..\..\src\cmsio1.c
-..\..\src\cmslut.c
-..\..\src\cmsmd5.c
-..\..\src\cmsmtrx.c
-..\..\src\cmsnamed.c
-..\..\src\cmsopt.c
-..\..\src\cmspack.c
-..\..\src\cmspcs.c
-..\..\src\cmsplugin.c
-..\..\src\cmsps2.c
-..\..\src\cmssamp.c
-..\..\src\cmssm.c
-..\..\src\cmstypes.c
-..\..\src\cmsvirt.c
-..\..\src\cmswtpnt.c
-..\..\src\cmsxform.c
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a89d7d60e07bbf9c3c56365119d12759de718f94bec7da03ddbe5db06e10276
+size 510

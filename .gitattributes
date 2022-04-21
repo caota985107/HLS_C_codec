@@ -1,1 +1,3 @@
-*.xclbin filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:27824f7b61f2e43fa7cb6f69c3549cf0949b50af1a20339a300a10fcd4223d84
+size 83

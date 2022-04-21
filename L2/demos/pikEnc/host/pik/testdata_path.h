@@ -1,21 +1,3 @@
-// Copyright 2019 Google LLC
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
-
-#ifndef PIK_TESTDATA_PATH_H_
-#define PIK_TESTDATA_PATH_H_
-
-#include <string>
-
-
-namespace pik {
-
-static inline std::string GetTestDataPath(const std::string& filename) {
-  return std::string(TEST_DATA_PATH "/") + filename;
-}
-
-}  // namespace pik
-
-#endif  // PIK_TESTDATA_PATH_H_
+version https://git-lfs.github.com/spec/v1
+oid sha256:e69f865bc2715449a55156ad849b61e71203f280d869bdbcd15e6aa6fdf6d57b
+size 461
